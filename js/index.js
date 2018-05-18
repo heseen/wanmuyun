@@ -164,7 +164,7 @@ option = {
     ],
     series : [
         {
-            name:'人生指数',
+            name:'参考指数',
             type:'k',
             data:[ // 开盘，收盘，最低，最高
                 
