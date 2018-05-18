@@ -1,7 +1,7 @@
 
 option = {
     title : {
-        text: '2013年上半年上证指数',
+        text: '人生指数',
         subtext: '仅供参考'
     },
     tooltip : {
@@ -289,7 +289,7 @@ option = {
     xAxis : [
         {
             type : 'category',
-            data : ['PS','AI','CDR','Sketch','C4D']
+            data : ['PS','AI','CDR','Sketch','C4D','其它']
         }
     ],
     yAxis : [
@@ -300,7 +300,7 @@ option = {
     series : [
         {
             type:'bar',
-            data:[80.0, 90.2, 50.6, 70.7, 40.6],
+            data:[80.0, 90.2, 50.6, 70.7, 40.6, 60],
        
         }
     ]
@@ -330,7 +330,7 @@ option = {
     xAxis : [
         {
             type : 'category',
-            data : ['HTML','CSS','JS','python','php']
+            data : ['HTML','CSS','JS','python','php','其它']
         }
     ],
     yAxis : [
@@ -341,7 +341,7 @@ option = {
     series : [
         {
             type:'bar',
-            data:[90.0, 90.2, 50.6, 60.7, 40.6],
+            data:[90.0, 90.2, 50.6, 60.7, 40.6, 70],
        
         }
     ]
@@ -370,7 +370,7 @@ option = {
     xAxis : [
         {
             type : 'category',
-            data : ['Axure','Word','Excel','PPT','XMind']
+            data : ['Axure','Word','Excel','PPT','XMind','其它']
         }
     ],
     yAxis : [
@@ -381,7 +381,7 @@ option = {
     series : [
         {
             type:'bar',
-            data:[80.0, 90.2, 70.6, 60.7, 70.6],
+            data:[80.0, 90.2, 70.6, 60.7, 70.6, 80],
        
         }
     ]
