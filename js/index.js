@@ -512,7 +512,7 @@ myChart.setOption(option);
 
 var option = {
     title : {
-        text: '涉猎',
+        text: '涉及',
         subtext: '仅供参考',
         x:'left'
     },
