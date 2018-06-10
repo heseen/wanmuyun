@@ -1,5 +1,5 @@
 
-option = {
+var option = {
     title : {
         text: '参考指数',
         subtext: '仅供参考'
@@ -324,7 +324,7 @@ myChart.setOption(option);
 
 
 
-option = {
+var option = {
     title : {
         text: '设计',
         subtext: '仅供参考'
@@ -405,7 +405,7 @@ myChart.setOption(option);
 
 
 
-option = {
+var option = {
     title : {
         text: '软件',
         subtext: '仅供参考'
