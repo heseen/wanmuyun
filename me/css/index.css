@@ -11,7 +11,7 @@ a{ text-decoration:none;}
 .plate{ margin: 0 auto; padding-top: 50px; max-width:1200px; min-width: 1200px; border: 0px solid red; }
 .plate img{ display: block; margin: 0 auto; width: 100%; }
 
-.footer{ line-height: 108px; color: #b1b1b1; text-align:center; background-color: #262626; border-top: 1px solid #3a3a3a; border-bottom: 1px solid #333; min-width:1200px; margin: 0 auto; }
+.footer{ color: #b1b1b1; text-align:center; background-color: #262626; border-top: 1px solid #3a3a3a; border-bottom: 1px solid #333; min-width:1200px; margin: 0 auto; }
 .footer .content{ font-size:14px; padding:40px 0; opacity: 0.7;  }
 .footer p{line-height:38px; }
 .footer p a{ color:#777; text-decoration:none;}
