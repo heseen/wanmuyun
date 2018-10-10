@@ -8,12 +8,12 @@ a{ text-decoration:none;}
 .main .content{ background: #fff; margin: 0 auto; padding: 50px 40px; border: #eee solid 1px; }
 .main .content p{  line-height: 32px; color: #999; font-size: 16px;   }
 
-.footer{ line-height: 108px; color: #b1b1b1; text-align:center; background-color: #262626; border-top: 1px solid #3a3a3a; border-bottom: 1px solid #333; min-width:1200px; margin: 0 auto; }
+.footer{  color: #b1b1b1; text-align:center; background-color: #262626; border-top: 1px solid #3a3a3a; border-bottom: 1px solid #333; min-width:1200px; margin: 0 auto; }
 .footer .content{ font-size:14px; padding:40px 0; opacity: 0.7;  }
 .footer p{line-height:38px; }
 .footer p a{ color:#777; text-decoration:none;}
 
-.subfooter{background:rgba(0, 0, 0, 0.9); height: 38px; font-size:14px; line-height:38px; color: #777; text-align:center; opacity: 0.5; }
-.subfooter a{ font-size:14px; text-decoration:none; }
+.footer .subfooter{background:rgba(0, 0, 0, 0.9); height: 38px; font-size:14px; line-height:38px; color: #777; text-align:center; opacity: 0.5; }
+.footer .subfooter a{ font-size:14px; text-decoration:none; }
 
 
