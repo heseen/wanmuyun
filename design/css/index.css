@@ -28,21 +28,21 @@ a{ text-decoration:none;}
 
 
 
-        .main{ min-height: 100px; }
-        .main .warp{ background: #fff; border-bottom: #e7e7e7 solid 1px; }
-        .main .warp .con{ min-height: 200px;width: 1200px; margin: 0 auto; padding: 40px  10px 0;  }
-        .main .warp .con h2{ color: #5d6d7e; font-size: 30px; line-height: 72px;  }
-        .main .warp .con p{ color: #b8c4ce; font-size: 16px; line-height: 24px;  }
+.main{ min-height: 100px; }
+.main .warp{ background: #fff; border-bottom: #e7e7e7 solid 1px; }
+.main .warp .con{ min-height: 200px;width: 1200px; margin: 0 auto; padding: 40px  10px 0;  }
+.main .warp .con h2{ color: #5d6d7e; font-size: 30px; line-height: 72px;  }
+.main .warp .con p{ color: #b8c4ce; font-size: 16px; line-height: 24px;  }
 
-        .main .content{ background: #f4f4f4; }
-        .main .content .con{ min-height: 600px;width: 1200px; margin: 0 auto; padding: 50px  10px;  }
-        .main .content .con .image{ margin: auto auto; min-height: 200px; max-width: 760px;  }
-        .main .content .con .image img{display: block; width: 100%; margin: auto auto;  }
+.main .content{ background: #f4f4f4; }
+.main .content .con{ min-height: 600px;width: 1200px; margin: 0 auto; padding: 50px  10px;  }
+.main .content .con .image{ margin: auto auto; min-height: 200px; max-width: 760px;  }
+.main .content .con .image img{display: block; width: 100%; margin: auto auto;  }
 
-        .main .content .page{ width: 1200px; height: 180px;  margin: 0 auto;  }
-        .main .content .page ul{ width: 640px; height: 50px; margin: auto; }
-        .main .content .page ul li{list-style-type:none; float: left; margin: auto 16px; }
-        .main .content .page ul li a{ display: block; text-decoration:none; color: #333; border: 1px #ccc solid; padding:5px 10px; }
+.main .content .page{ width: 1200px; height: 180px;  margin: 0 auto;  }
+.main .content .page ul{ width: 640px; height: 50px; margin: auto; }
+.main .content .page ul li{list-style-type:none; float: left; margin: auto 16px; }
+.main .content .page ul li a{ display: block; text-decoration:none; color: #333; border: 1px #ccc solid; padding:5px 10px; }
 
 
 
