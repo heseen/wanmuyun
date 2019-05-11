@@ -6,7 +6,7 @@ a{ text-decoration:none;}
 
 .main{ margin: 0 auto; padding: 50px 0; width:1200px;  min-height: 600px;}
 .main .content{ background: #fff; margin: 0 auto; padding: 50px 40px; border: #eee solid 1px; }
-.main .content p{  line-height: 32px; color: #999; font-size: 16px;   }
+.main .content p{  line-height: 32px; color: #999; font-size: 16px; margin-bottom: 20px;  }
 
 .footer{  color: #b1b1b1; text-align:center; background-color: #262626; border-top: 1px solid #3a3a3a; border-bottom: 1px solid #333; min-width:1200px; margin: 0 auto; }
 .footer .content{ font-size:14px; padding:40px 0; opacity: 0.7;  }
